@@ -3,6 +3,8 @@ Projectile Motion Prediction system utilising Kinect V2 (depth frame) & Python (
 
 [Python 3.x](https://www.python.org/)
 
+[Test Data](https://1drv.ms/u/s!Ajf6maQFVjBAnr1fb3RrFoidjrFNCQ?e=sCtPV8)
+
 Python Packages:
 * [Numpy](http://www.numpy.org/)
 ```
@@ -32,5 +34,3 @@ Visual Studio Code Extensions:
 Python (Microsoft)
 Visual Studio IntelliCode (Microsoft)
 ```
-
-[Test Data](https://1drv.ms/u/s!Ajf6maQFVjBAnr1fb3RrFoidjrFNCQ?e=sCtPV8)
